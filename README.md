@@ -7,11 +7,11 @@ This repository contains a machine learning project aimed at predicting passenge
 
 The goal of this project is to accurately predict whether a passenger on the Spaceship Titanic was transported to an alternate dimension or not. The project leverages various Python libraries for data analysis, preprocessing, model training, and evaluation, including:
 
-- pandas: Data manipulation and analysis.
-- numpy: Numerical operations.
-- seaborn: Data visualization.
-- sklearn: Machine learning algorithms and tools.
-- pytorch_tabnet: Implementation of the TabNetClassifier model.
+- `pandas`: Data manipulation and analysis.
+- `numpy`: Numerical operations.
+- `seaborn`: Data visualization.
+- `sklearn`: Machine learning algorithms and tools.
+- `pytorch_tabnet`: Implementation of the TabNetClassifier model.
 
 ## Data Preprocessing
 
@@ -44,7 +44,7 @@ This project serves as a baseline for passenger transport prediction on the Spac
 
 ## Repository Contents
 
-- train.csv: Training dataset.
-- test.csv: Testing dataset.
-- submit.csv: Generated submission file.
-- *.ipynb: Jupyter notebook containing the code and analysis.
+- `train.csv`: Training dataset.
+- `test.csv`: Testing dataset.
+- `submit.csv`: Generated submission file.
+- `*.ipynb`: Jupyter notebook containing the code and analysis.
